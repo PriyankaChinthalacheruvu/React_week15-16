@@ -8,6 +8,7 @@ export const ENDPIONTS = {
     ORDER: 'Order'
 }
 
+
 export const createAPIEndpoint = endpoint => {
 
     let url = BASE_URL + endpoint + '/';
