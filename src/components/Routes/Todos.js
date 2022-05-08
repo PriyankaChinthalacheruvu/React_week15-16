@@ -39,7 +39,7 @@ const Todos = (props) => {
 
   return (
     <>
-      <h3>Todo's List</h3>
+      <h3>Order Status</h3>
       <button className='btn btn-primary' onClick={handleClick}>
         Reload
       </button>

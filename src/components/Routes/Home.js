@@ -28,20 +28,20 @@ const Home = (props) => {
     <React.Fragment>
       <div className='jumbotron jumbotron-fluid'>
         <div className='container'>
-          <h1 className='display-4'>User Dashboard</h1>
+          <h1 className='display-4'>User Details Dashboard</h1>
           <p className='lead'>Total Users = {rowUser.length}</p>
         </div>
       </div>
       <div className='jumbotron jumbotron-fluid'>
         <div className='container'>
-          <h1 className='display-4'>Todos Dashboard</h1>
-          <p className='lead'>Total Tasks = {rowToDo.length}</p>
+          <h1 className='display-4'>Orders Dashboard</h1>
+          <p className='lead'>Total Orders = {rowToDo.length}</p>
         </div>
       </div>
       <div className='jumbotron jumbotron-fluid'>
         <div className='container'>
-          <h1 className='display-4'>Albums Dashboard</h1>
-          <p className='lead'>Total Albums = {rowAlbum.length}</p>
+          <h1 className='display-4'>Menu Dashboard</h1>
+          <p className='lead'>Total users viewing menu = {rowAlbum.length}</p>
         </div>
       </div>
     </React.Fragment>
