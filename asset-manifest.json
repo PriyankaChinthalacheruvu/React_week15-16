@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-restaurantapp/menu/static/css/main.8c362516.css",
-    "main.js": "/react-restaurantapp/menu/static/js/main.dcb5faf0.js",
-    "static/js/787.4880d76a.chunk.js": "/react-restaurantapp/menu/static/js/787.4880d76a.chunk.js",
-    "index.html": "/react-restaurantapp/menu/index.html",
-    "main.8c362516.css.map": "/react-restaurantapp/menu/static/css/main.8c362516.css.map",
-    "main.dcb5faf0.js.map": "/react-restaurantapp/menu/static/js/main.dcb5faf0.js.map",
-    "787.4880d76a.chunk.js.map": "/react-restaurantapp/menu/static/js/787.4880d76a.chunk.js.map"
+    "main.css": "/react-restaurantapp/static/css/main.8c362516.css",
+    "main.js": "/react-restaurantapp/static/js/main.c99db7eb.js",
+    "static/js/787.4880d76a.chunk.js": "/react-restaurantapp/static/js/787.4880d76a.chunk.js",
+    "index.html": "/react-restaurantapp/index.html",
+    "main.8c362516.css.map": "/react-restaurantapp/static/css/main.8c362516.css.map",
+    "main.c99db7eb.js.map": "/react-restaurantapp/static/js/main.c99db7eb.js.map",
+    "787.4880d76a.chunk.js.map": "/react-restaurantapp/static/js/787.4880d76a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8c362516.css",
-    "static/js/main.dcb5faf0.js"
+    "static/js/main.c99db7eb.js"
   ]
 }
